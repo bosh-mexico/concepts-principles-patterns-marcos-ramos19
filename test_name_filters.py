@@ -25,7 +25,7 @@ def run_examples():
     print("-" * 30)
 
     filtered_b_or_c = select_names_starting_with(all_names, ('B', 'C'))
-    print("4. Selected (Case-Insensitive 'B'/'b' or 'C'/'c'):", filtered_b_or_or_c)
+    print("4. Selected (Case-Insensitive 'B'/'b' or 'C'/'c'):", filtered_b_or_c)
 
     print("-" * 30)
 

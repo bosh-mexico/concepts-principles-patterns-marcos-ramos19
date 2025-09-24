@@ -2,7 +2,7 @@ from select_m_names import select_names_starting_with_M
 
 def run_examples():
     all_names = [
-        "Bosch", "Mexico", "Mango", "Mark", "Blr", "Clean code", "mouse", "Maverick"
+        "Bosch", "Mexico", "Mango", "Mark", "Blr", "Clean code"
     ]
 
     print("Original list of names:", all_names)
